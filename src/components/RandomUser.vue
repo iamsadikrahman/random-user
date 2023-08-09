@@ -116,7 +116,7 @@ onMounted(() => {
 <template>
   <section class="h-screen bg-slate-400 flex justify-center items-center w-full">
     <div
-      class="flex flex-col space-y-5 justify-center items-center border p-20 rounded-lg bg-pink-900 text-white"
+      class="flex flex-col space-y-5 justify-center items-center border p-20 rounded-lg bg-pink-900 text-white mx-5"
     >
       <img class="w-32 rounded-full" :src="allValues[0]" alt="" />
       <div class="text-2xl flex flex-col space-y-2 justify-center items-center">
