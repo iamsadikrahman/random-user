@@ -114,7 +114,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <section class="h-screen bg-slate-400 flex justify-center items-center">
+  <section class="h-screen bg-slate-400 flex justify-center items-center w-full">
     <div
       class="flex flex-col space-y-5 justify-center items-center border p-20 rounded-lg bg-pink-900 text-white"
     >
